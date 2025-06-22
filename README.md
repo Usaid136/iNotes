@@ -47,8 +47,3 @@ If you're interested in this project or want access for educational, review, or 
 - Apache Server (XAMPP, WAMP, or live server)
 - Web browser (Chrome, Firefox, etc.)
 
-### ⚙️ Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Usaid136/iNotes.git

@@ -4,6 +4,11 @@ A simple yet powerful **CRUD-based web application** built using **PHP**, **MySQ
 
 ---
 
+🔒 The source code is private. If you're interested in this project or want access for educational or review purposes, feel free to contact me.
+
+
+---
+
 ## 📌 Features
 
 - ✅ **Create** new notes with title and description

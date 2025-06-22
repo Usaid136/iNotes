@@ -9,7 +9,7 @@ The source code for this project is private.
 
 If you're interested in this project or want access for educational, review, or collaboration purposes, feel free to contact me via WhatsApp:
 
-📞 +92 330 0262678 [Click to Chat](https://wa.me/923300262678?text=Hi%2C%20I%20saw%20your%20iNotes%20project%20and%20would%20like%20to%20request%20code%20access.)
+📞 [+92 330 0262678 | Chat on Whatsapp](https://wa.me/923300262678?text=Hi%2C%20I%20saw%20your%20iNotes%20project%20and%20would%20like%20to%20request%20code%20access.)
 🕑 Available for code access or project discussion requests
 
 ---
